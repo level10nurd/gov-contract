@@ -1,6 +1,11 @@
 # Environment variables
 .env
 
+# Agents
+/.bmad-core/
+/.claude/
+/.ccursor/
+
 # Data directory (large CSV files)
 /data/
 
