@@ -1,0 +1,75 @@
+URL,Documentation,Type,Access,Rate Limit,Category
+https://open.gsa.gov/api/get-opportunities-public-api/,GSA Open Technology portal,Official federal contract opportunities API,Free with registration,1000 requests/hour,Federal APIs
+https://api.usaspending.gov/,https://www.usaspending.gov/api,Federal spending and award data,No authentication required,None,Federal APIs
+https://www.grants.gov/web/grants/s2s/grantor/schemas.html,Grants.gov documentation,Federal grant opportunities,Registration required,Not specified,Federal APIs
+https://open.gsa.gov/api/,GSA API documentation,Central repository of GSA APIs,Varies by API,Varies by API,Federal APIs
+https://api.data.gov/docs/developer-manual/,api.data.gov developer manual,Federal API management service,API key required,Varies by service,Federal APIs
+https://iq.govwin.com/,GovWin IQ platform documentation,Premium government contract intelligence,Enterprise licensing,$1000-$2500/month for API access,Commercial Data Providers
+https://about.bgov.com/,Bloomberg Government documentation,Government contracting intelligence,Subscription-based,Not specified,Commercial Data Providers
+https://www.govspend.com/,GovSpend platform documentation,State and local procurement data,API licensing available,Not specified,Commercial Data Providers
+https://www.onvia.com/,Onvia platform documentation,State and local government intelligence,Subscription-based,Not specified,Commercial Data Providers
+https://www.bidnet.com/,BidNet platform documentation,Government bid notification service,Subscription-based,Not specified,Commercial Data Providers
+https://kafka.apache.org/,https://kafka.apache.org/documentation/,Event streaming platform,Open source,N/A,Technology Architecture
+https://www.confluent.io/confluent-cloud/,Confluent documentation,Managed Kafka service,Commercial cloud service,Based on plan,Technology Architecture
+https://nifi.apache.org/,Apache NiFi documentation,Data flow automation with 600+ processors,Open source,N/A,Technology Architecture
+https://airbyte.com/,https://docs.airbyte.com/,Data integration platform with 550+ connectors,Open source + commercial,Based on plan,Technology Architecture
+https://typesense.org/,https://typesense.org/docs/,Open-source search engine,Open source,N/A,Search Technologies
+https://www.elastic.co/elasticsearch/,Elasticsearch documentation,Analytics and search platform,Open source + commercial,Based on deployment,Search Technologies
+https://www.algolia.com/,Algolia documentation,Commercial search-as-a-service,Commercial SaaS,Based on plan,Search Technologies
+https://solr.apache.org/,Apache Solr documentation,Open-source enterprise search,Open source,N/A,Search Technologies
+https://redis.io/,Redis documentation,In-memory cache for search results,Open source + commercial,N/A,Search Technologies
+https://aws.amazon.com/sagemaker/,AWS SageMaker documentation,Auto-scaling ML inference endpoints,AWS service,Based on usage,Machine Learning
+https://www.tensorflow.org/,TensorFlow documentation,ML framework for neural networks,Open source,N/A,Machine Learning
+https://xgboost.readthedocs.io/,XGBoost documentation,Gradient boosting framework,Open source,N/A,Machine Learning
+https://www.section508.gov/,Section 508 guidance,Federal accessibility requirements,Public information,N/A,Compliance
+https://www.fedramp.gov/,FedRAMP documentation,Federal cloud security authorization,Certification required,N/A,Compliance
+https://www.cisa.gov/federal-information-security-modernization-act,FISMA guidance,Federal information security requirements,Public information,N/A,Compliance
+https://sam.gov/about/terms-of-use,SAM.gov terms,Usage restrictions and requirements,Public information,N/A,Compliance
+https://www.federalregister.gov/documents/2025/01/08/2024-31486/,Federal Register,DOJ data security rules 2025,Public information,N/A,Compliance
+https://draftspark.ai/blog/top-tools-for-tracking-government-rfps/,DraftSpark analysis,Industry analysis of RFP tracking tools,Public blog,N/A,Industry Analysis
+https://www.deltek.com/en/blog/how-govwin-iq-beats-government-websites,Deltek blog,GovWin IQ competitive analysis,Public blog,N/A,Industry Analysis
+https://www.deltek.com/en/blog/ai-government-contract-work,Deltek blog,AI in government contracting,Public blog,N/A,Industry Analysis
+https://www.govcon.me/blog/api/sam,GovCon.me guide,SAM.gov API implementation guide,Public blog,N/A,Industry Analysis
+https://aws.amazon.com/blogs/architecture/serverless-architecture-for-a-web-scraping-solution/,AWS Architecture Blog,Serverless web scraping architecture,Public blog,N/A,Cloud Infrastructure
+https://cloud.google.com/,Google Cloud documentation,Cloud platform services,Commercial service,Based on usage,Cloud Infrastructure
+https://azure.microsoft.com/,Microsoft Azure documentation,Cloud platform services,Commercial service,Based on usage,Cloud Infrastructure
+https://kubernetes.io/,Kubernetes documentation,Container orchestration,Open source,N/A,Cloud Infrastructure
+https://react.dev/,React documentation,Frontend framework,Open source,N/A,Development Tools
+https://vuejs.org/,Vue.js documentation,Alternative frontend framework,Open source,N/A,Development Tools
+https://www.typescriptlang.org/,TypeScript documentation,Type safety for JavaScript,Open source,N/A,Development Tools
+https://graphql.org/,GraphQL specification,API query language,Open source,N/A,Development Tools
+https://konghq.com/,Kong documentation,API management gateway,Open source + commercial,Based on plan,Development Tools
+https://www.envoyproxy.io/,Envoy documentation,Service mesh proxy,Open source,N/A,Development Tools
+https://www.postgresql.org/,PostgreSQL documentation,Relational database,Open source,N/A,Databases
+https://www.mongodb.com/,MongoDB documentation,Document database,Open source + commercial,Based on deployment,Databases
+https://flink.apache.org/,Apache Flink documentation,Stream processing framework,Open source,N/A,Databases
+https://ksqldb.io/,ksqlDB documentation,Streaming SQL engine,Open source,N/A,Databases
+https://www.naics.com/search/,NAICS Association,NAICS code lookup and hierarchy,Public reference,N/A,Reference Data
+https://www.fpds.gov/,FPDS documentation,Federal contract data system,Public access,N/A,Reference Data
+https://www.cpars.gov/,CPARS documentation,Past performance ratings,Government access required,N/A,Reference Data
+https://www.kai-waehner.de/blog/2021/09/23/real-time-kappa-architecture-mainstream-replacing-batch-lambda/,Kai Waehner blog,Kappa architecture analysis,Public blog,N/A,Architecture Patterns
+https://atlan.com/data-pipeline-architecture/,Atlan guide,Data pipeline architecture patterns,Public resource,N/A,Architecture Patterns
+https://www.amazon.science/blog/using-graph-neural-networks-to-recommend-related-products,Amazon Science Blog,Graph neural networks for recommendations,Public research,N/A,Machine Learning Research
+https://www.researchgate.net/publication/264045408_A_Win_Prediction_Model_for_IT_Outsourcing_Bids,ResearchGate,Bid prediction model research,Academic paper,N/A,Academic Research
+https://www.sciencedirect.com/science/article/pii/S2667305324001480,ScienceDirect,Sparse data in recommendation systems,Academic paper,N/A,Academic Research
+https://www.ibm.com/think/topics/content-based-filtering,IBM Research,Content-based filtering analysis,Public resource,N/A,Machine Learning Research
+https://www.hrcloud.com/blog/recommendation-systems-for-recruitment-an-overview,HR Cloud,Recommendation systems analysis,Public blog,N/A,Machine Learning Research
+https://aws.amazon.com/compliance/fedramp/,AWS FedRAMP,AWS FedRAMP compliance,Public information,N/A,Compliance
+https://learn.microsoft.com/en-us/compliance/regulatory/offering-FedRAMP,Microsoft Learn,Microsoft FedRAMP compliance,Public documentation,N/A,Compliance
+https://www.softwareadvice.com/resources/api-cost/,Software Advice,API pricing negotiation guide,Public resource,N/A,Business Strategy
+https://www.mycustomer.com/marketing/data/customer-data-platforms-should-you-build-or-buy,MyCustomer,Build vs buy analysis framework,Public article,N/A,Business Strategy
+https://www.panorama-consulting.com/erp-implementation-strategies/,Panorama Consulting,Phased implementation strategies,Public resource,N/A,Business Strategy
+https://www.hellobonsai.com/blog/white-label-tools-for-agencies,Hello Bonsai,White label software analysis,Public blog,N/A,Business Strategy
+https://www.levelaccess.com/blog/508-compliance/,Level Access,Section 508 compliance guide,Public resource,N/A,Compliance
+https://www.levelaccess.com/solutions/fedramp-authorized-solution/,Level Access,FedRAMP authorized solutions,Commercial service,N/A,Compliance
+https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-15-modernizing-the-federal-risk-and-authorization-management-program-fedramp/,White House Archives,FedRAMP modernization memo,Public document,N/A,Compliance
+https://www.carahsoft.com/solve/fedramp,Carahsoft,FedRAMP certified providers,Public resource,N/A,Compliance
+https://www.ebglaw.com/insights/publications/dojs-final-rule-on-bulk-data-transfers-a-road-map,Epstein Becker Green,DOJ data transfer rules analysis,Legal analysis,N/A,Legal Resources
+https://dealhub.io/glossary/phased-implementation/,DealHub,Phased implementation guide,Public resource,N/A,Business Strategy
+https://www.addsearch.com/blog/algolia-alternatives/,AddSearch,Search engine alternatives analysis,Public blog,N/A,Search Technologies
+https://getindata.com/blog/what-are-graph-neural-networks-and-why-should-you-consider-using-them-your-recommendation-system/,GetInData,Graph neural networks guide,Public blog,N/A,Machine Learning Research
+https://tfx.treasury.gov/tfm/volume1/part2/chapter-6000-agency-reporting-requirements-usaspendinggov,Treasury TFX,USAspending reporting requirements,Public documentation,N/A,Federal APIs
+https://www.freepublicapis.com/usaspending-api,Free Public APIs,USAspending API testing,Public resource,N/A,Federal APIs
+https://www.deltek.com/en/blog/govwin-iq-federal-and-sled-government-data-coverage,Deltek blog,GovWin IQ data coverage analysis,Public blog,N/A,Commercial Data Providers
+https://www.deltek.com/en/blog/federal-it-contracting-path-to-success,Deltek blog,Federal IT contracting guide,Public blog,N/A,Industry Analysis
+https://iq.govwin.com/neo/marketAnalysis/index,GovWin IQ,Government contracting market analysis,Subscription required,N/A,Commercial Data Providers
