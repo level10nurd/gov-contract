@@ -4,7 +4,7 @@
 # Agents
 /.bmad-core/
 /.claude/
-/.ccursor/
+/.cursor/
 
 # Data directory (large CSV files)
 /data/
