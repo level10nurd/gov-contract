@@ -36,6 +36,11 @@ This directory contains product strategy research, market analysis, and business
 
 **Market Gap Identified**: Significant pricing gap between $6K-$15K+ with poor mobile optimization across all providers.
 
+### Historical Analysis
+The past 15 years of contracts from sam.gov have been boarded to supabase and totals 3.75mm records. No analysis has been performed on this yet. 
+
+supabase_database=postgresql://postgres:Bunny9-Robust8-Unify7-Composer0-Uncertain7@db.urilshgkjcbwatvkjgda.supabase.co:5432/postgres
+
 ### Core Value Proposition Evolution
 
 **Phase 1**: Contract Aggregation & Search  
